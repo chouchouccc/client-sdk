@@ -1,0 +1,2 @@
+# spring bott starter
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.yupi.yuapiclientsdk.YuApiClientConfig
